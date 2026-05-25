@@ -1,0 +1,335 @@
+{
+  "meta": {
+    "title": "风车谷公园 (Valley of the Mills Park)",
+    "description": "摩尔多瓦基希讷乌风车谷公园的完整旅游指南。了解这一美丽景点、位置和游览信息。"
+  },
+  "header": {
+    "home": "首页",
+    "gallery": "图库",
+    "reviews": "评价",
+    "map": "地图",
+    "backToHome": "返回首页"
+  },
+  "hero": {
+    "title": "风车谷公园",
+    "subtitle": "公园 · 基希讷乌",
+    "rating": "4.8",
+    "reviewCount": "16,276 条评价",
+    "type": "公园",
+    "openMaps": "在Google地图上查看位置"
+  },
+  "intro": {
+    "title": "探索风车谷公园",
+    "description": "风车谷公园（Valley of the Mills Park，罗马尼亚语：Parcul „Valea Morilor”）是摩尔多瓦首都基希讷乌最美丽、最受欢迎的公园之一，位于贝克河（Bâc River）畔。公园提供宁静而风景优美环境，是散步、休闲和户外活动的理想场所。凭借其风景如画的湖泊、荫凉的小径和广阔的绿地，这里既是当地人的最爱，也是游客的热门目的地。",
+    "visitGuide": {
+      "title": "游览建议",
+      "items": [
+        "公园全年开放，入场免费。",
+        "非常适合野餐或沿着荫凉小径轻松散步。",
+        "提供欣赏湖泊和中央纪念碑的绝佳视角。"
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "亮点",
+      "items": [
+        "风景湖",
+        "中央纪念碑",
+        "荫凉小径",
+        "绿地空间"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "关于风车谷公园",
+    "sections": [
+      {
+        "id": "history",
+        "title": "历史背景",
+        "content": "风车谷公园建于20世纪50年代，是基希讷乌最重要旅游和休闲景点之一。其名称来源于上世纪该地区存在的风车。随着时间的推移，公园经历了多次翻新，成为一个现代化的休闲空间。"
+      },
+      {
+        "id": "layout",
+        "title": "地理与布局",
+        "content": "公园围绕一个风景优美的湖泊而建，湖泊是吸引力的中心。荫凉的小径和绿地提供了多种散步和休闲的机会。中央矗立着一座标志性纪念碑，经常举办文化和艺术活动。"
+      },
+      {
+        "id": "culture",
+        "title": "文化意义",
+        "content": "作为基希讷乌的绿肺，公园不仅是休闲场所，也是公共活动的中心。夏季经常在此举办露天音乐会、节庆活动和其他文化活动，是市民最喜欢的聚会场所。"
+      },
+      {
+        "id": "biodiversity",
+        "title": "生态与植物",
+        "content": "公园内种植了丰富的植物种类，四季呈现不同的景观。从春季樱花盛开到秋季层林尽染，这里是自然爱好者的天堂，也是城市鸟类和小型野生动物的重要栖息地。"
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "基础信息",
+    "officialName": "正式名称",
+    "officialNameValue": "风车谷公园 (Parcul „Valea Morilor”)",
+    "type": "景点类型",
+    "typeValue": "公园",
+    "country": "国家",
+    "countryValue": "摩尔多瓦共和国",
+    "city": "城市",
+    "cityValue": "基希讷乌",
+    "googleRating": "谷歌评分",
+    "googleRatingValue": "4.8 (16,276)",
+    "phone": "电话",
+    "phoneValue": "",
+    "address": "地址",
+    "addressValue": "Strada Grigore Alexandrescu, Chișinău, Moldova",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "2R99+CP Chișinău, Moldova"
+  },
+  "hours": {
+    "title": "开放时间",
+    "park": "景区开放",
+    "parkTime": "全年开放（24/7）",
+    "bestTime": "最佳游览时间",
+    "bestTimeSpring": "春季：百花齐放，樱花盛开",
+    "bestTimeSummer": "夏季：阳光明媚，适合野餐和户外活动",
+    "bestTimeAutumn": "秋季：美丽的秋叶，气氛宜人",
+    "bestTimeWinter": "冬季：宁静的氛围和冬季景观",
+    "tip": "由于季节和特殊活动，开放时间可能会有所调整，请查看官方网站了解最新信息。"
+  },
+  "tickets": {
+    "title": "门票信息",
+    "park": "景区参观",
+    "parkPrice": "免费入场",
+    "parking": "停车",
+    "parkingPrice": "附近有付费停车位",
+    "guided": "导游服务",
+    "guidedPrice": "自助游览"
+  },
+  "transport": {
+    "title": "交通指南",
+    "fromCenter": "从基希讷乌市中心",
+    "fromCenterDesc": "公园距离市中心步行或乘坐公共交通均可轻松到达。",
+    "fromStation": "从公交站",
+    "fromStationDesc": "可乘坐多条公交和无轨电车线路到达。",
+    "fromAirport": "从机场",
+    "fromAirportDesc": "从基希讷乌国际机场，可乘坐出租车或公共交通至市中心，然后步行到达。",
+    "publicTransport": "公共交通",
+    "publicTransportDesc": "基希讷乌的公交和无轨电车线路连接良好。",
+    "walking": "步行",
+    "walkingDesc": "从城市多个区域均可步行到达。",
+    "driving": "自驾",
+    "drivingDesc": "该地区停车位有限，建议使用公共交通或步行。"
+  },
+  "route": {
+    "title": "推荐游览路线",
+    "overview": "在公园中悠闲漫步，欣赏风景。",
+    "steps": [
+      "从公园主入口开始",
+      "欣赏风景湖和中央纪念碑",
+      "沿着荫凉小径散步",
+      "参观绿地和休闲区",
+      "享受公园宁静的氛围"
+    ]
+  },
+  "photoSpots": {
+    "title": "绝佳拍照点",
+    "spots": [
+      {
+        "title": "风景湖",
+        "description": "公园中心的湖泊提供了绝佳的风景摄影机会，尤其是在日出和日落时分。",
+        "location": "公园中心",
+        "image": "/gallery/valley-of-the-mills-park-2.jpg"
+      },
+      {
+        "title": "中央纪念碑",
+        "description": "一座标志性的纪念碑，矗立在公园中心。从不同角度拍摄的照片都会非常壮观。",
+        "location": "公园中心",
+        "image": "/gallery/valley-of-the-mills-park-4.jpg"
+      },
+      {
+        "title": "荫凉小径",
+        "description": "宁静荫凉的小径为自然和人像摄影提供了完美的背景。",
+        "location": "整个公园",
+        "image": "/gallery/valley-of-the-mills-park-5.jpg"
+      },
+      {
+        "title": "绿地空间",
+        "description": "精心维护的草坪为家庭照片和休闲提供了绝佳的环境。",
+        "location": "整个公园",
+        "image": "/gallery/valley-of-the-mills-park-8.jpg"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "周边住宿指南",
+    "hotels": [
+      {
+        "name": "基希讷乌市中心",
+        "desc": "基希讷乌的中心区域可轻松前往公园和其他旅游景点。这里有多家酒店和住宿选择，适合希望身处城市中心的旅客。",
+        "price": "推荐区域"
+      },
+      {
+        "name": "布尤卡尼区 (Buiucani)",
+        "desc": "位于公园附近，该区域提供更宁静的氛围，适合希望在自然环境中放松的人。",
+        "price": "推荐区域"
+      },
+      {
+        "name": "博塔尼卡区 (Botanica)",
+        "desc": "距离较远但公共交通连接良好。提供更经济的住宿选择。",
+        "price": "推荐区域"
+      },
+      {
+        "name": "火车站区域",
+        "desc": "靠近火车站，方便乘火车抵达或离开的旅客。",
+        "price": "推荐区域"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "照片画廊",
+    "subtitle": "风车谷公园美景",
+    "captions": [
+      "湖景",
+      "风景湖",
+      "荫凉小径",
+      "中央纪念碑",
+      "绿地空间",
+      "草坪",
+      "自然",
+      "散步道",
+      "景观",
+      "细节",
+      "雕像",
+      "游人",
+      "日出",
+      "树荫",
+      "绿植",
+      "花坛",
+      "小径",
+      "全景"
+    ],
+    "viewAll": "在Google地图上查看位置",
+    "showAll": "显示完整照片",
+    "showLess": "收起照片"
+  },
+  "reviews": {
+    "title": "游客评价",
+    "declaration": "评价信息可通过Google地图查看。",
+    "moreReviews": "在Google地图上查看更多评价",
+    "items": [
+      {
+        "name": "Ion P.",
+        "rating": 5,
+        "date": "2026-04-",
+        "text": "基希讷乌最美的地方之一。每个周末我都会来这里散步，湖泊的宁静和美丽无与伦比。"
+      },
+      {
+        "name": "Maria L.",
+        "rating": 5,
+        "date": "2026-03-28",
+        "text": "非常适合家庭野餐。孩子们可以安全玩耍，大人们可以欣赏风景放松身心。"
+      },
+      {
+        "name": "Vasile M.",
+        "rating": 4,
+        "date": "2026-05-01",
+        "text": "放松身心的好地方。夏季这里会组织有趣的活动，强烈推荐！"
+      },
+      {
+        "name": "Elena K.",
+        "rating": 5,
+        "date": "2026-02-15",
+        "text": "作为自然爱好者，我对这个公园的美景印象深刻。荫凉的小径和风景如画的湖泊使这个地方成为城市中的一片宁静绿洲。"
+      },
+      {
+        "name": "Andrei T.",
+        "rating": 5,
+        "date": "2025-10-22",
+        "text": "晚间散步的完美场所。公园的照明很好，氛围宜人且安全。"
+      },
+      {
+        "name": "Oxana R.",
+        "rating": 5,
+        "date": "2025-08-09",
+        "text": "与中心的喧嚣相比，这个公园提供了一个宁静的避风港。读书或冥想的理想场所。"
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "地图位置",
+    "subtitle": "Strada Grigore Alexandrescu, Chișinău, Moldova",
+    "openMaps": "在Google地图上查看位置"
+  },
+  "footer": {
+    "rights": "© 2026 风车谷公园信息网",
+    "privacy": "隐私政策",
+    "terms": "服务条款",
+    "cookies": "Cookie 设置",
+    "officialResourcesTitle": "官方与合作资源",
+    "officialLinks": {
+      "mc": "摩尔多瓦共和国文化",
+      "turism": "摩尔多瓦国家旅游",
+      "airm": "摩尔多瓦古迹检查",
+      "chisinau": "基希讷乌市政厅",
+      "proiecte": "基希讷乌市政项目与旅游"
+    },
+    "disclaimer": "本网站是独立的旅游指南网站，旨在提供客观、准确的旅行信息。"
+  },
+  "privacy": {
+    "title": "隐私政策",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "title": "信息收集",
+        "content": "当您访问我们的网站时，我们可能会自动收集有关您设备、浏览器和浏览行为的基本信息，以便为您提供更好的用户体验。这些信息不包含您的身份特征。"
+      },
+      {
+        "title": "Cookie 的使用",
+        "content": "我们使用 Cookie 来分析网站流量并优化页面内容。您可以通过本站底部的 Cookie 设置选项来随时管理您的偏好。"
+      },
+      {
+        "title": "数据安全与保护",
+        "content": "我们致力于保护您的隐私数据安全，不会将您的浏览数据出售、出租或交易给任何第三方商业机构。"
+      }
+    ]
+  },
+  "terms": {
+    "title": "服务条款",
+    "lastUpdated": "最后更新：2026年5月",
+    "sections": [
+      {
+        "title": "网站内容与使用",
+        "content": "本网站提供有关风车谷公园的旅游、交通及历史信息。所有内容仅供参考，景点的实际开放时间和票务信息可能随时更改，请以官方发布为准。"
+      },
+      {
+        "title": "知识产权说明",
+        "content": "本网站上的文本、图像和排版设计受版权保护。未经明确的书面许可，任何人不得将网站内容用于商业盈利用途。"
+      },
+      {
+        "title": "免责声明",
+        "content": "我们尽最大努力确保信息的准确性与时效性，但对于因使用本网站提供的信息而直接或间接造成的任何行程延误或损失，本站不承担法律责任。"
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie 设置",
+    "description": "管理您的Cookie偏好。",
+    "essential": {
+      "title": "必要的Cookie",
+      "description": "基本网站功能所需，无法关闭。",
+      "badge": "始终启用"
+    },
+    "analytics": {
+      "title": "分析",
+      "description": "帮助我们了解访客行为并改进网站。"
+    },
+    "marketing": {
+      "title": "营销",
+      "description": "用于跨网站跟踪和个性化广告展示。"
+    },
+    "save": "保存设置",
+    "saved": "设置已保存！"
+  },
+  "officialManagement": {
+    "title": "关于风车谷公园",
+    "text": "风车谷公园是摩尔多瓦基希讷乌的一个重要城市公园，完美展示了城市自然与休闲空间的结合。"
+  }
+}

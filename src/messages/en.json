@@ -1,0 +1,336 @@
+{
+  "meta": {
+    "title": "Valley of the Mills Park",
+    "description": "Complete guide to Valley of the Mills Park in Chișinău. Learn about this scenic spot, its location, visiting information, and travel tips."
+  },
+  "header": {
+    "home": "Home",
+    "gallery": "Gallery",
+    "reviews": "Reviews",
+    "map": "Map",
+    "backToHome": "Back to Home"
+  },
+  "hero": {
+    "title": "Valley of the Mills Park",
+    "subtitle": "Park · Chișinău",
+    "rating": "4.8",
+    "reviewCount": "16,276 reviews",
+    "type": "Park",
+    "openMaps": "View on Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/nLipr7g9VhagY7TQA"
+  },
+  "intro": {
+    "title": "Discover Valley of the Mills Park",
+    "description": "Valley of the Mills Park (Parcul „Valea Morilor”) is one of the most beautiful and visited parks in Chișinău, located on the banks of the Bâc River. The park offers a peaceful and scenic environment, making it an ideal place for walks, relaxation, and outdoor activities. With its scenic lake, shady alleys, and extensive green spaces, it is a favorite destination for both locals and tourists.",
+    "visitGuide": {
+      "title": "Visit Tips",
+      "items": [
+        "The park is accessible year-round and admission is free.",
+        "Great place for a picnic or a relaxing walk along the shady alleys.",
+        "Provides excellent views of the lake and the central monument."
+      ]
+    },
+    "alsoKnownAs": {
+      "title": "Highlights",
+      "items": [
+        "Scenic Lake",
+        "Central Monument",
+        "Shady Alleys",
+        "Green Spaces"
+      ]
+    }
+  },
+  "knowledge": {
+    "title": "About Valley of the Mills Park",
+    "sections": [
+      {
+        "id": "history",
+        "title": "Historical Background",
+        "content": "Valley of the Mills Park was created in the 1950s and represents one of the most important tourist and recreational attractions in Chișinău. Its name comes from the windmills that existed in this area in the last century. Over time, the park has undergone several renovations, becoming a modern relaxation space."
+      },
+      {
+        "id": "layout",
+        "title": "Geography & Layout",
+        "content": "The park is organized around a scenic lake, which is the central point of attraction. The shady alleys and green spaces offer multiple opportunities for walking and relaxation. In the center stands an emblematic monument, which often hosts cultural and artistic events."
+      },
+      {
+        "id": "culture",
+        "title": "Cultural Significance",
+        "content": "As the 'green lung' of Chișinău, the park is not only a place for relaxation but also a hub for public events. During summer, open-air concerts, festivals, and other cultural activities are often organized here, being a favorite meeting place for city residents."
+      },
+      {
+        "id": "biodiversity",
+        "title": "Ecology & Flora",
+        "content": "The park hosts a rich variety of plant species, offering distinct landscapes throughout the seasons. From cherry blossoms in spring to vibrant foliage in autumn, it is a haven for nature lovers and an important habitat for urban birds and small wildlife."
+      }
+    ]
+  },
+  "basicInfo": {
+    "title": "Basic Information",
+    "officialName": "Official Name",
+    "officialNameValue": "Valley of the Mills Park (Parcul „Valea Morilor”)",
+    "type": "Attraction Type",
+    "typeValue": "Park",
+    "country": "Country",
+    "countryValue": "Moldova",
+    "city": "City",
+    "cityValue": "Chișinău",
+    "googleRating": "Google Rating",
+    "googleRatingValue": "4.8 (16,276)",
+    "phone": "Phone",
+    "phoneValue": "",
+    "address": "Address",
+    "addressValue": "Strada Grigore Alexandrescu, Chișinău, Moldova",
+    "plusCode": "Plus Code",
+    "plusCodeValue": "2R99+CP Chișinău, Moldova"
+  },
+  "hours": {
+    "title": "Visiting Hours",
+    "park": "Site Access",
+    "parkTime": "Open year-round (24/7)",
+    "bestTime": "Best Time to Visit",
+    "bestTimeSpring": "Spring: Flowers and cherry blossoms blooming",
+    "bestTimeSummer": "Summer: Sunny days, great for picnics and outdoor activities",
+    "bestTimeAutumn": "Autumn: Beautiful foliage and pleasant atmosphere",
+    "bestTimeWinter": "Winter: Quiet atmosphere and winter landscapes",
+    "tip": "Opening hours may vary due to seasons and special events. Please check the official website for the latest updates."
+  },
+  "tickets": {
+    "title": "Admission Information",
+    "park": "Park Visit",
+    "parkPrice": "Free admission",
+    "parking": "Parking",
+    "parkingPrice": "Parking available nearby (paid)",
+    "guided": "Guided Tours",
+    "guidedPrice": "Self-guided"
+  },
+  "transport": {
+    "title": "How to Get Here",
+    "fromCenter": "From Chișinău Center",
+    "fromCenterDesc": "The park is within accessible walking distance or public transport from the center.",
+    "fromStation": "From Bus Station",
+    "fromStationDesc": "Accessible by multiple bus and trolleybus lines.",
+    "fromAirport": "From Airport",
+    "fromAirportDesc": "From Chișinău International Airport, you can take a taxi or public transport to the center, then walk.",
+    "publicTransport": "Public Transport",
+    "publicTransportDesc": "Well connected by Chișinău bus and trolleybus routes.",
+    "walking": "Walking",
+    "walkingDesc": "Accessible on foot from multiple areas of the city.",
+    "driving": "Driving",
+    "drivingDesc": "Limited parking in the area. Public transport or walking is recommended."
+  },
+  "route": {
+    "title": "Recommended Route",
+    "overview": "Take a leisurely stroll through the park and enjoy the scenery.",
+    "steps": [
+      "Start at the main entrance of the park",
+      "Admire the scenic lake and the central monument",
+      "Walk along the shady alleys",
+      "Visit the green spaces and relaxation areas",
+      "Enjoy the peaceful atmosphere of the park"
+    ]
+  },
+  "photoSpots": {
+    "title": "Top Photo Spots",
+    "spots": [
+      {
+        "title": "Scenic Lake",
+        "description": "The lake in the park center offers excellent landscape photography opportunities, especially during sunrise and sunset.",
+        "location": "Park Center",
+        "image": "/gallery/valley-of-the-mills-park-2.jpg"
+      },
+      {
+        "title": "Central Monument",
+        "description": "An emblematic monument that dominates the park center. Photos taken from different angles can be spectacular.",
+        "location": "Park Center",
+        "image": "/gallery/valley-of-the-mills-park-4.jpg"
+      },
+      {
+        "title": "Shady Alleys",
+        "description": "Quiet and shady alleys offer a perfect setting for nature and portrait photography.",
+        "location": "Throughout the park",
+        "image": "/gallery/valley-of-the-mills-park-5.jpg"
+      },
+      {
+        "title": "Green Spaces",
+        "description": "Well-maintained lawns offer a wonderful setting for family photos and relaxation.",
+        "location": "Throughout the park",
+        "image": "/gallery/valley-of-the-mills-park-8.jpg"
+      }
+    ]
+  },
+  "hotels": {
+    "title": "Accommodation Guide",
+    "hotels": [
+      {
+        "name": "Chișinău Center",
+        "desc": "The central area of Chișinău offers easy access to the park and other tourist attractions. Here you can find multiple hotels and accommodation options, suitable for travelers who want to be in the heart of the city.",
+        "price": "Recommended"
+      },
+      {
+        "name": "Buiucani Area",
+        "desc": "Located near the park, this area offers a quieter atmosphere and is ideal for those who want to relax in a natural environment.",
+        "price": "Recommended"
+      },
+      {
+        "name": "Botanica Area",
+        "desc": "A more distant area but well connected by public transport. Offers more economical accommodation options.",
+        "price": "Recommended"
+      },
+      {
+        "name": "Railway Station Area",
+        "desc": "Near the railway station, this area is convenient for travelers arriving or departing by train.",
+        "price": "Recommended"
+      }
+    ]
+  },
+  "gallery": {
+    "title": "Photo Gallery",
+    "subtitle": "Scenic Views of Valley of the Mills Park",
+    "captions": [
+      "Lake view",
+      "Scenic lake",
+      "Shady alleys",
+      "Central monument",
+      "Green spaces",
+      "Lawns",
+      "Nature",
+      "Walkways",
+      "Landscape",
+      "Details",
+      "Statues",
+      "Visitors",
+      "Sunrise",
+      "Shade",
+      "Greenery",
+      "Flower beds",
+      "Alleys",
+      "Panoramic view"
+    ],
+    "viewAll": "View on Google Maps",
+    "showAll": "View All Photos",
+    "showLess": "Show Less"
+  },
+  "reviews": {
+    "title": "Visitor Reviews",
+    "declaration": "Visitor feedback can be viewed via Google Maps.",
+    "moreReviews": "View more reviews on Google Maps",
+    "items": [
+      {
+        "name": "Ion P.",
+        "rating": 5,
+        "date": "2026-04-12",
+        "text": "One of the most beautiful places in Chișinău. I always take a walk here on weekends. The tranquility and beauty of the lake are unmatched."
+      },
+      {
+        "name": "Maria L.",
+        "rating": 5,
+        "date": "2026-03-28",
+        "text": "Excellent place for a family picnic. Children can play safely, and adults can relax admiring the landscape."
+      },
+      {
+        "name": "Vasile M.",
+        "rating": 4,
+        "date": "2026-05-01",
+        "text": "A wonderful place for relaxation. During summer, interesting events are organized here. Highly recommend!"
+      },
+      {
+        "name": "Elena K.",
+        "rating": 5,
+        "date": "2026-02-15",
+        "text": "As a nature lover, I was impressed by the beauty of this park. The shady alleys and scenic lake make this place an oasis of tranquility in the middle of the city."
+      },
+      {
+        "name": "Andrei T.",
+        "rating": 5,
+        "date": "2025-10-22",
+        "text": "Perfect place for evening walks. The park lighting is good, and the atmosphere is pleasant and safe."
+      },
+      {
+        "name": "Oxana R.",
+        "rating": 5,
+        "date": "2025-08-09",
+        "text": "Compared to the hustle and bustle of the center, this park offers a quiet refuge. The ideal place to read a book or meditate."
+      }
+    ]
+  },
+  "mapSection": {
+    "title": "Map Location",
+    "subtitle": "Strada Grigore Alexandrescu, Chișinău, Moldova",
+    "openMaps": "View on Google Maps"
+  },
+  "footer": {
+    "rights": "© 2026 Valley of the Mills Park Info",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "cookies": "Cookie Settings",
+    "officialResourcesTitle": "Official & Partner Resources",
+    "officialLinks": {
+      "mc": "Moldova Culture",
+      "turism": "Moldova Tourism",
+      "airm": "Monuments Inspection",
+      "chisinau": "Chișinău City Hall",
+      "proiecte": "Chișinău Projects & Tourism"
+    },
+    "disclaimer": "This is an independent guide website dedicated to providing objective and accurate travel information."
+  },
+  "privacy": {
+    "title": "Privacy Policy",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "title": "Information Collection",
+        "content": "When you visit our website, we may automatically collect basic information about your device, browser, and browsing behavior to provide a better user experience. This information does not contain your personal identity."
+      },
+      {
+        "title": "Use of Cookies",
+        "content": "We use cookies to analyze website traffic and optimize page content. You can manage your preferences at any time through the Cookie Settings option at the bottom of our site."
+      },
+      {
+        "title": "Data Security and Protection",
+        "content": "We are committed to protecting the security of your privacy data and will not sell, rent, or trade your browsing data to any third-party commercial organizations."
+      }
+    ]
+  },
+  "terms": {
+    "title": "Terms of Service",
+    "lastUpdated": "Last updated: May 2026",
+    "sections": [
+      {
+        "title": "Website Content and Use",
+        "content": "This website provides travel, transportation, and historical information about Valley of the Mills Park. All content is for reference only. Actual opening hours and ticket information for attractions may change at any time, please refer to official announcements."
+      },
+      {
+        "title": "Intellectual Property",
+        "content": "The text, images, and layout designs on this website are protected by copyright. Without explicit written permission, no one may use the website content for commercial profit."
+      },
+      {
+        "title": "Disclaimer",
+        "content": "We do our best to ensure the accuracy and timeliness of the information, but we bear no legal responsibility for any travel delays or losses caused directly or indirectly by the use of the information provided on this website."
+      }
+    ]
+  },
+  "cookieSettings": {
+    "title": "Cookie Settings",
+    "description": "Manage your cookie preferences.",
+    "essential": {
+      "title": "Essential Cookies",
+      "description": "Required for basic website functionality and cannot be switched off.",
+      "badge": "Always active"
+    },
+    "analytics": {
+      "title": "Analytics",
+      "description": "Help us understand visitor behavior and improve the website."
+    },
+    "marketing": {
+      "title": "Marketing",
+      "description": "Used for cross-site tracking and personalized ad delivery."
+    },
+    "save": "Save Preferences",
+    "saved": "Preferences saved!"
+  },
+  "officialManagement": {
+    "title": "About Valley of the Mills Park",
+    "text": "Valley of the Mills Park is a major urban park in Chișinău, Moldova, offering a perfect example of combining city nature with recreational spaces."
+  }
+}
