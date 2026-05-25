@@ -14,12 +14,15 @@ export default function Footer() {
       <div className="max-w-5xl mx-auto">
         <div className="flex flex-col sm:flex-row justify-between items-start gap-8 mb-8">
           <div className="max-w-md">
-            <h3 className="font-display text-lg font-semibold mb-1" style={{ color: 'var(--text-primary)' }}>
-              {t('officialResourcesTitle')}
+            <h3 className="font-display text-xl font-semibold mb-1" style={{ color: 'var(--text-primary)' }}>
+              {t('parkName')}
             </h3>
-            <p className="text-xs mb-4" style={{ color: 'var(--text-muted)' }}>
-              {t('disclaimer')}
+            <p className="text-sm mb-6" style={{ color: 'var(--text-muted)' }}>
+              {t('parkSubtitle')}
             </p>
+            <h4 className="font-medium text-sm mb-3" style={{ color: 'var(--text-primary)' }}>
+              {t('officialResourcesTitle')}
+            </h4>
             <div className="flex flex-col gap-2">
               <a href="https://mc.gov.md/" target="_blank" rel="noopener noreferrer" className="hover:underline text-sm" style={{ color: 'var(--accent)' }}>
                 {t('officialLinks.mc')}
