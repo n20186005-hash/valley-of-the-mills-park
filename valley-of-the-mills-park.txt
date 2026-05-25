@@ -1,0 +1,72 @@
+你正在用（Next.js开发）
+为一个新景点【 Valley of the Mills Park 】构建静态/Next.js 单页指南网站。
+页面只需要支持中文和英文双语言
+the-triumphal-arch
+
+valley-of-the-mills-park
+
+摩尔多瓦基希讷乌	Valley of the Mills Park
+Valley of the Mills Park
+Parcul „Valea Morilor”
+4.8(16,276)
+Strada Grigore Alexandrescu, Chișinău, Moldova
+2R99+CP Chișinău, Moldova
+
+https://maps.app.goo.gl/nLipr7g9VhagY7TQA
+
+
+首屏背景图要引用以下
+C:\Users\Administrator\Downloads\摩尔多瓦\valley-of-the-mills-park\public\gallery
+
+
+删除原先友情链接，新增以下友情链接
+摩尔多瓦共和国文化
+https://mc.gov.md/
+摩尔多瓦国家旅游
+https://turism.gov.md/
+摩尔多瓦古迹检查
+https://airm.md/
+基希讷乌市政厅
+https://www.chisinau.md/
+基希讷乌市政项目与旅游
+https://proiecte.chisinau.md/
+
+
+
+
+在Google地图上查看位置都跳转为 https://maps.app.goo.gl/nLipr7g9VhagY7TQA
+页面一共四个链接每一个都需要修改
+
+
+照片画廊
+精彩照片 显示照片不全目前只显示8张，需要有显示完整照片显示功能
+检查照片名称是否正确并修正
+
+
+删除 探索更多 板块
+
+
+首屏谷歌地图位置跳转为 https://maps.app.goo.gl/nLipr7g9VhagY7TQA
+
+照片画廊
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/nLipr7g9VhagY7TQA
+
+游客评价
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/nLipr7g9VhagY7TQA
+
+地图位置
+在Google地图上查看位置跳转为 https://maps.app.goo.gl/nLipr7g9VhagY7TQA
+
+首屏右侧切换中文的时候 网站没转为/zh
+
+新增罗马尼亚语
+
+
+生成一个文件忽略不需要上传的文件
+
+
+
+
+
+
+

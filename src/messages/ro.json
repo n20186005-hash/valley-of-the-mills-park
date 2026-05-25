@@ -76,8 +76,6 @@
     "cityValue": "Chișinău",
     "googleRating": "Evaluare Google",
     "googleRatingValue": "4.8 (16,276)",
-    "phone": "Telefon",
-    "phoneValue": "",
     "address": "Adresă",
     "addressValue": "Strada Grigore Alexandrescu, Chișinău, Moldova",
     "plusCode": "Cod Plus",
@@ -259,11 +257,11 @@
     "openMaps": "Vezi pe Google Maps"
   },
   "footer": {
-    "rights": "© 2026 Parcul „Valea Morilor” Info",
-    "privacy": "Politica de confidențialitate",
-    "terms": "Termeni de utilizare",
+    "rights": "© 2026 Asociația Independentă de Cercetare Turistică Parcul „Valea Morilor” · Toate drepturile rezervate.",
+    "privacy": "Politică de confidențialitate",
+    "terms": "Termeni și condiții",
     "cookies": "Setări Cookie",
-    "officialResourcesTitle": "Resurse oficiale și partenere",
+    "officialResourcesTitle": "Resurse și informații conexe",
     "officialLinks": {
       "mc": "Guvernul Republicii Moldova - Cultură",
       "turism": "Turismul în Moldova",
@@ -271,7 +269,7 @@
       "chisinau": "Primăria municipiului Chișinău",
       "proiecte": "Proiecte Chișinău - Turism"
     },
-    "disclaimer": "Acesta este un site ghid independent dedicat furnizării de informații de călătorie obiective și accurate."
+    "disclaimer": "Acest site este un proiect independent de informații turistice. Nu suntem afiliați cu administrația locală sau alte instituții oficiale."
   },
   "privacy": {
     "title": "Politica de confidențialitate",

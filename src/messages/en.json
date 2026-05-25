@@ -77,8 +77,6 @@
     "cityValue": "Chișinău",
     "googleRating": "Google Rating",
     "googleRatingValue": "4.8 (16,276)",
-    "phone": "Phone",
-    "phoneValue": "",
     "address": "Address",
     "addressValue": "Strada Grigore Alexandrescu, Chișinău, Moldova",
     "plusCode": "Plus Code",
@@ -260,11 +258,11 @@
     "openMaps": "View on Google Maps"
   },
   "footer": {
-    "rights": "© 2026 Valley of the Mills Park Info",
+    "rights": "© 2026 Valley of the Mills Park Independent Tourism Research Association · All Rights Reserved.",
     "privacy": "Privacy Policy",
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
-    "officialResourcesTitle": "Official & Partner Resources",
+    "officialResourcesTitle": "Related Resources & Information",
     "officialLinks": {
       "mc": "Moldova Culture",
       "turism": "Moldova Tourism",
@@ -272,7 +270,7 @@
       "chisinau": "Chișinău City Hall",
       "proiecte": "Chișinău Projects & Tourism"
     },
-    "disclaimer": "This is an independent guide website dedicated to providing objective and accurate travel information."
+    "disclaimer": "This website is an independent third-party travel information project. We are not affiliated with the local government or any other official institutions."
   },
   "privacy": {
     "title": "Privacy Policy",
