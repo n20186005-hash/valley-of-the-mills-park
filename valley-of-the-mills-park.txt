@@ -64,6 +64,9 @@ https://proiecte.chisinau.md/
 
 生成一个文件忽略不需要上传的文件
 
+我们网站是 valleyofthemillspark.com
+检查下是否有错误
+
 
 
 官方与合作资源
@@ -83,6 +86,14 @@ https://proiecte.chisinau.md/
 
 本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。
 
+
+表单字段	填写内容	说明
+国家 / 地区 *	摩尔多瓦（Moldova）	下拉框中选择对应选项
+地址行 1*	Valley of the Mills Park (Parcul „Valea Morilor”), Strada Grigore Alexandrescu	地标名称 + 主街道信息
+地址行 2	（可选留空）	非必填项，无需额外补充
+城市 *	Chișinău（基希讷乌）	地址所在城市
+省 / 自治区 / 直辖市 *	Chișinău	摩尔多瓦无省级行政区，首都基希讷乌为直辖市，填写Chișinău即可
+邮政编码 *	MD-2001（基希讷乌中心区通用邮编）	该区域的标准邮编格式，摩尔多瓦邮编前缀为MD-
 
 
 

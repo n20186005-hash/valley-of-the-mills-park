@@ -15,11 +15,15 @@ export async function generateMetadata({
 }): Promise<Metadata> {
   const { locale } = await params;
   const messages = (await import(`@/messages/${locale}.json`)).default;
-  const baseUrl = 'https://princesstgardens.vercel.app';
+  const baseUrl = 'https://valleyofthemillspark.com';
 
   const zhUrl = `${baseUrl}/zh`;
   const enUrl = `${baseUrl}/en`;
-  const selfUrl = locale === 'zh' ? zhUrl : enUrl;
+  const roUrl = `${baseUrl}/ro`;
+  
+  let selfUrl = zhUrl;
+  if (locale === 'en') selfUrl = enUrl;
+  if (locale === 'ro') selfUrl = roUrl;
 
   return {
     title: messages.meta.title,
@@ -29,6 +33,7 @@ export async function generateMetadata({
       languages: {
         'zh': zhUrl,
         'en': enUrl,
+        'ro': roUrl,
         'x-default': zhUrl,
       },
     },
@@ -36,7 +41,7 @@ export async function generateMetadata({
       title: messages.meta.title,
       description: messages.meta.description,
       url: selfUrl,
-      siteName: "Princes Street Gardens",
+      siteName: "Valley of the Mills Park",
       locale: locale === 'zh' ? 'zh_CN' : 'en_US',
       type: 'website',
     },
