@@ -10,6 +10,14 @@ export default function Intro() {
   return (
     <section className="section-padding">
       <div className="max-w-4xl mx-auto">
+        <nav
+          aria-label="Breadcrumb"
+          className="mb-6 text-sm"
+          style={{ color: 'var(--text-muted)' }}
+        >
+          <p className="tracking-wide font-serif italic">{t('breadcrumbs')}</p>
+        </nav>
+
         <h2
           className="font-display text-3xl sm:text-4xl font-semibold mb-6"
           style={{ color: 'var(--text-primary)' }}
@@ -19,11 +27,20 @@ export default function Intro() {
         <div className="w-12 h-0.5 mb-8" style={{ background: 'var(--accent)' }} />
 
         <p
-          className="text-lg leading-relaxed mb-12"
+          className="text-lg leading-relaxed mb-6"
           style={{ color: 'var(--text-secondary)' }}
-        >
-          {t('description')}
-        </p>
+          dangerouslySetInnerHTML={{ __html: t('description') }}
+        />
+
+        <p
+          className="text-base leading-relaxed mb-12 p-5 rounded-lg border-l-4"
+          style={{
+            color: 'var(--text-secondary)',
+            borderColor: 'var(--accent)',
+            background: 'var(--bg-tertiary)',
+          }}
+          dangerouslySetInnerHTML={{ __html: t('nearbyCluster') }}
+        />
 
         <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
           <div

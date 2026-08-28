@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "风车谷公园 (Valley of the Mills Park)",
-    "description": "摩尔多瓦基希讷乌风车谷公园的完整旅游指南。了解这一美丽景点、位置和游览信息。"
+    "title": "风车谷公园 (基希讷乌) - 游览指南与位置地图",
+    "description": "探索摩尔多瓦首都基希讷乌的标志性地标风车谷公园（Parcul „Valea Morilor”）。查看位置地图、开放信息、周边斯特凡大帝中央公园与基希讷乌植物园，以及旅行实用建议。"
   },
   "header": {
     "home": "首页",
@@ -11,16 +11,19 @@
     "backToHome": "返回首页"
   },
   "hero": {
-    "title": "风车谷公园",
-    "subtitle": "公园 · 基希讷乌",
+    "title": "风车谷公园 (基希讷乌)",
+    "subtitle": "公园 · 基希讷乌直辖市 · 摩尔多瓦共和国",
     "rating": "4.8",
-    "reviewCount": "16,276 条评价",
-    "type": "公园",
-    "openMaps": "在Google地图上查看位置"
+    "reviewCount": "16,601 条评价",
+    "type": "城市公园",
+    "openMaps": "在 Google 地图上查看位置",
+    "mapsLink": "https://maps.app.goo.gl/nLipr7g9VhagY7TQA"
   },
   "intro": {
-    "title": "探索风车谷公园",
-    "description": "风车谷公园（Valley of the Mills Park，罗马尼亚语：Parcul „Valea Morilor”）是摩尔多瓦首都基希讷乌最美丽、最受欢迎的公园之一，位于贝克河（Bâc River）畔。公园提供宁静而风景优美环境，是散步、休闲和户外活动的理想场所。凭借其风景如画的湖泊、荫凉的小径和广阔的绿地，这里既是当地人的最爱，也是游客的热门目的地。",
+    "title": "关于风车谷公园",
+    "breadcrumbs": "风车谷公园 › 基希讷乌 › 基希讷乌直辖市 › 摩尔多瓦共和国",
+    "description": "欢迎来到 <strong>风车谷公园</strong>（Valley of the Mills Park，罗马尼亚语：Parcul „Valea Morilor”），这一景点被公认为是<strong>风车谷</strong>区域的核心地标。公园坐落于<strong>基希讷乌直辖市</strong>首府<strong>基希讷乌</strong>市的心脏地带，隶属于<strong>摩尔多瓦共和国</strong>，是到访该地区游客的首选集散中心。风车谷公园是摩尔多瓦首都基希讷乌最美丽、最受欢迎的公园之一，位于贝克河（Bâc River）畔。公园提供宁静而风景优美的环境，是散步、休闲和户外活动的理想场所。凭借其风景如画的湖泊、荫凉的小径和广阔的绿地，这里既是当地人的最爱，也是游客的热门目的地。",
+    "nearbyCluster": "游览<strong>风车谷公园</strong>时，游客可便捷探索周边的历史地标与观光节点，包括<strong>斯特凡大帝中央公园</strong>（Parcul „Ștefan cel Mare și Sfânt”）与<strong>基希讷乌植物园</strong>（Grădina Botanică din Chișinău）。",
     "visitGuide": {
       "title": "游览建议",
       "items": [
@@ -30,9 +33,9 @@
       ]
     },
     "alsoKnownAs": {
-      "title": "亮点",
+      "title": "核心亮点",
       "items": [
-        "风景湖",
+        "风景湖泊",
         "中央纪念碑",
         "荫凉小径",
         "绿地空间"
@@ -44,18 +47,18 @@
     "sections": [
       {
         "id": "history",
-        "title": "历史背景",
-        "content": "风车谷公园建于20世纪50年代，是基希讷乌最重要旅游和休闲景点之一。其名称来源于上世纪该地区存在的风车。随着时间的推移，公园经历了多次翻新，成为一个现代化的休闲空间。"
+        "title": "风车谷公园的历史与地位",
+        "content": "风车谷公园建于 20 世纪 50 年代，是基希讷乌最重要的旅游和休闲景点之一。其名称来源于上世纪该地区存在的风车。随着时间的推移，公园经历了多次翻新，成为一个现代化的休闲空间，亦是摩尔多瓦首都绿色身份的象征。"
       },
       {
         "id": "layout",
-        "title": "地理与布局",
-        "content": "公园围绕一个风景优美的湖泊而建，湖泊是吸引力的中心。荫凉的小径和绿地提供了多种散步和休闲的机会。中央矗立着一座标志性纪念碑，经常举办文化和艺术活动。"
+        "title": "位置与到访方式：基希讷乌风车谷",
+        "content": "公园围绕一个风景优美的湖泊而建，湖泊是吸引力的中心。荫凉的小径和绿地提供了多种散步和休闲的机会。中央矗立着一座标志性纪念碑，经常举办文化和艺术活动。从城市多个地点均可轻松到达，无论步行还是乘坐公共交通都十分方便。"
       },
       {
         "id": "culture",
-        "title": "文化意义",
-        "content": "作为基希讷乌的绿肺，公园不仅是休闲场所，也是公共活动的中心。夏季经常在此举办露天音乐会、节庆活动和其他文化活动，是市民最喜欢的聚会场所。"
+        "title": "风车谷周边地标与景点集群",
+        "content": "作为基希讷乌的「绿肺」，公园不仅是休闲场所，也是公共活动的中心。夏季经常在此举办露天音乐会、节庆活动和其他文化活动，是市民最喜欢的聚会场所。附近分布着斯特凡大帝中央公园、基希讷乌植物园以及市中心众多历史建筑。"
       },
       {
         "id": "biodiversity",
@@ -66,20 +69,20 @@
   },
   "basicInfo": {
     "title": "基础信息",
-    "officialName": "正式名称",
-    "officialNameValue": "风车谷公园 (Parcul „Valea Morilor”)",
+    "officialName": "官方全称",
+    "officialNameValue": "风车谷公园 (Parcul „Valea Morilor” / Valley of the Mills Park)",
     "type": "景点类型",
-    "typeValue": "公园",
+    "typeValue": "城市公共公园",
     "country": "国家",
     "countryValue": "摩尔多瓦共和国",
-    "city": "城市",
-    "cityValue": "基希讷乌",
-    "googleRating": "谷歌评分",
-    "googleRatingValue": "4.8 (16,276)",
+    "city": "城市 / 直辖市",
+    "cityValue": "基希讷乌 / 基希讷乌直辖市",
+    "googleRating": "Google 评分",
+    "googleRatingValue": "4.8 (16,601)",
     "address": "地址",
-    "addressValue": "Strada Grigore Alexandrescu, Chișinău, Moldova",
+    "addressValue": "Strada Grigore Alexandrescu, Chișinău, 摩尔多瓦共和国",
     "plusCode": "Plus Code",
-    "plusCodeValue": "2R99+CP Chișinău, Moldova"
+    "plusCodeValue": "2R99+CP Chișinău, 摩尔多瓦共和国"
   },
   "hours": {
     "title": "开放时间",
@@ -90,7 +93,7 @@
     "bestTimeSummer": "夏季：阳光明媚，适合野餐和户外活动",
     "bestTimeAutumn": "秋季：美丽的秋叶，气氛宜人",
     "bestTimeWinter": "冬季：宁静的氛围和冬季景观",
-    "tip": "由于季节和特殊活动，开放时间可能会有所调整，请查看官方网站了解最新信息。"
+    "tip": "由于季节和特殊活动，开放时间可能会有所调整，请查阅官方旅游门户了解最新信息。"
   },
   "tickets": {
     "title": "门票信息",
@@ -183,7 +186,7 @@
   },
   "gallery": {
     "title": "照片画廊",
-    "subtitle": "风车谷公园美景",
+    "subtitle": "风车谷公园美景 · 基希讷乌 · 摩尔多瓦共和国",
     "captions": [
       "湖景",
       "风景湖",
@@ -204,19 +207,19 @@
       "小径",
       "全景"
     ],
-    "viewAll": "在Google地图上查看位置",
+    "viewAll": "在 Google 地图上查看位置",
     "showAll": "显示完整照片",
     "showLess": "收起照片"
   },
   "reviews": {
     "title": "游客评价",
-    "declaration": "评价信息可通过Google地图查看。",
-    "moreReviews": "在Google地图上查看更多评价",
+    "declaration": "评价信息可通过 Google 地图查看。",
+    "moreReviews": "在 Google 地图上查看更多评价",
     "items": [
       {
         "name": "Ion P.",
         "rating": 5,
-        "date": "2026-04-",
+        "date": "2026-04-12",
         "text": "基希讷乌最美的地方之一。每个周末我都会来这里散步，湖泊的宁静和美丽无与伦比。"
       },
       {
@@ -252,9 +255,27 @@
     ]
   },
   "mapSection": {
-    "title": "地图位置",
-    "subtitle": "Strada Grigore Alexandrescu, Chișinău, Moldova",
-    "openMaps": "在Google地图上查看位置"
+    "title": "地图位置 · 风车谷，基希讷乌",
+    "subtitle": "Strada Grigore Alexandrescu, Chișinău, 摩尔多瓦共和国",
+    "openMaps": "在 Google 地图上查看位置"
+  },
+  "faq": {
+    "title": "常见问题解答",
+    "subtitle": "关于风车谷公园最常见问题的解答",
+    "items": [
+      {
+        "q": "风车谷公园位于哪里？",
+        "a": "风车谷公园（Parcul „Valea Morilor”）位于摩尔多瓦共和国基希讷乌直辖市基希讷乌市，地址为 Strada Grigore Alexandrescu。"
+      },
+      {
+        "q": "参观风车谷公园是否免费？",
+        "a": "是的，风车谷公园为公共开放空间，全年免费对公众开放，入园无需购票。"
+      },
+      {
+        "q": "风车谷公园附近有哪些主要景点？",
+        "a": "风车谷公园周边可便捷前往斯特凡大帝中央公园（Parcul „Ștefan cel Mare și Sfânt”）及基希讷乌植物园（Grădina Botanică din Chișinău）等代表性景点。"
+      }
+    ]
   },
   "footer": {
     "rights": "© 2026 风车谷公园独立旅游研究协会 · 保留所有权利。",
@@ -262,15 +283,16 @@
     "terms": "服务条款",
     "cookies": "Cookie 设置",
     "parkName": "风车谷公园",
-    "parkSubtitle": "公园 · 基希讷乌",
+    "parkSubtitle": "城市公园 · 基希讷乌 · 摩尔多瓦共和国",
     "officialResourcesTitle": "相关资源与资讯",
     "officialLinks": {
-      "mc": "摩尔多瓦共和国文化",
-      "turism": "摩尔多瓦国家旅游",
-      "airm": "摩尔多瓦古迹检查",
+      "mc": "摩尔多瓦共和国政府文化部",
+      "turism": "摩尔多瓦共和国官方旅游门户",
+      "airm": "摩尔多瓦古迹检查与修复局",
       "chisinau": "基希讷乌市政厅",
       "proiecte": "基希讷乌市政项目与旅游"
     },
+    "officialTourismLinkText": "如需获取官方更新与区域旅游资讯，请访问摩尔多瓦共和国 / 基希讷乌直辖市官方旅游门户。",
     "disclaimer": "本网站是一个独立的第三方旅游资讯项目。我们与当地政府或其他官方机构没有任何关联。"
   },
   "privacy": {

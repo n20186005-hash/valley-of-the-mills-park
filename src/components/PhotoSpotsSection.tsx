@@ -1,11 +1,32 @@
 'use client';
 
-import { useTranslations, useMessages } from 'next-intl';
+import { useTranslations, useMessages, useLocale } from 'next-intl';
+
+const LANDMARK_ALT: Record<
+  string,
+  {
+    template: (title: string) => string;
+  }
+> = {
+  ro: {
+    template: (t) => `${t} - Repere fotografice în apropierea Valei Morilor, Chișinău, Republica Moldova`,
+  },
+  en: {
+    template: (t) => `${t} near Mills' Valley Park, Chișinău, Moldova`,
+  },
+  zh: {
+    template: (t) => `${t} - 摩尔多瓦基希讷乌风车谷公园周边景点`,
+  },
+};
+
+type Spot = { title: string; description: string; image?: string; location?: string };
 
 export default function PhotoSpotsSection() {
   const t = useTranslations('photoSpots');
+  const locale = useLocale();
   const messages = useMessages() as any;
-  const spots = (messages?.photoSpots?.spots || []) as Array<{ title: string; description: string; image?: string; location?: string }>;
+  const spots = (messages?.photoSpots?.spots || []) as Spot[];
+  const altCfg = LANDMARK_ALT[locale] || LANDMARK_ALT.en;
 
   return (
     <section className="section-padding">
@@ -27,6 +48,7 @@ export default function PhotoSpotsSection() {
               image={spot.image}
               location={spot.location}
               index={index + 1}
+              altText={altCfg.template(spot.title)}
             />
           ))}
         </div>
@@ -35,19 +57,30 @@ export default function PhotoSpotsSection() {
   );
 }
 
-function PhotoSpotCard({ title, description, image, location, index }: { title: string; description: string; image?: string; location?: string; index: number }) {
+function PhotoSpotCard({
+  title,
+  description,
+  image,
+  location,
+  index,
+  altText,
+}: Spot & { index: number; altText: string }) {
   return (
     <div
       className="rounded-xl overflow-hidden"
       style={{ background: 'var(--bg-tertiary)', border: '1px solid var(--border-color)' }}
     >
-      {/* Image area */}
       <div
         className="aspect-video relative flex items-center justify-center overflow-hidden"
         style={{ background: 'linear-gradient(135deg, var(--bg-secondary), var(--bg-tertiary))' }}
       >
         {image ? (
-          <img src={image} alt={title} className="w-full h-full object-cover transition-transform hover:scale-105" loading="lazy" />
+          <img
+            src={image}
+            alt={altText}
+            className="w-full h-full object-cover transition-transform hover:scale-105"
+            loading="lazy"
+          />
         ) : (
           <div className="text-center">
             <svg width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="var(--accent)" strokeWidth="1.5" className="mx-auto mb-2 opacity-50">

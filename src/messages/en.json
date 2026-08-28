@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Valley of the Mills Park",
-    "description": "Complete guide to Valley of the Mills Park in Chișinău. Learn about this scenic spot, its location, visiting information, and travel tips."
+    "title": "Valley of the Mills Park (Chișinău) - Visitor Guide & Location",
+    "description": "Discover Valley of the Mills Park, the iconic landmark in Chișinău, Moldova. View location map, opening details, nearby Ștefan cel Mare Central Park and Chișinău Botanical Garden, and travel tips."
   },
   "header": {
     "home": "Home",
@@ -11,17 +11,19 @@
     "backToHome": "Back to Home"
   },
   "hero": {
-    "title": "Valley of the Mills Park",
-    "subtitle": "Park · Chișinău",
+    "title": "Valley of the Mills Park (Chișinău)",
+    "subtitle": "Park · Chișinău Municipality · Moldova",
     "rating": "4.8",
-    "reviewCount": "16,276 reviews",
-    "type": "Park",
+    "reviewCount": "16,601 reviews",
+    "type": "Public Park",
     "openMaps": "View on Google Maps",
     "mapsLink": "https://maps.app.goo.gl/nLipr7g9VhagY7TQA"
   },
   "intro": {
-    "title": "Discover Valley of the Mills Park",
-    "description": "Valley of the Mills Park (Parcul „Valea Morilor”) is one of the most beautiful and visited parks in Chișinău, located on the banks of the Bâc River. The park offers a peaceful and scenic environment, making it an ideal place for walks, relaxation, and outdoor activities. With its scenic lake, shady alleys, and extensive green spaces, it is a favorite destination for both locals and tourists.",
+    "title": "About Valley of the Mills Park",
+    "breadcrumbs": "Valley of the Mills Park › Chișinău › Chișinău Municipality › Moldova",
+    "description": "Welcome to <strong>Valley of the Mills Park</strong> (Parcul „Valea Morilor”), widely recognized as the central <strong>Mills' Valley Park</strong>. Located in the heart of <strong>Chișinău</strong>, <strong>Chișinău Municipality</strong>, <strong>Moldova</strong>, this destination serves as a primary hub for travelers visiting the region. Valley of the Mills Park is one of the most beautiful and visited parks in Chișinău, located on the banks of the Bâc River. The park offers a peaceful and scenic environment, making it an ideal place for walks, relaxation, and outdoor activities. With its scenic lake, shady alleys, and extensive green spaces, it is a favorite destination for both locals and tourists.",
+    "nearbyCluster": "When visiting <strong>Valley of the Mills Park</strong>, visitors can easily explore surrounding historical landmarks and points of interest, including <strong>Ștefan cel Mare Central Park</strong> and <strong>Chișinău Botanical Garden</strong>.",
     "visitGuide": {
       "title": "Visit Tips",
       "items": [
@@ -45,18 +47,18 @@
     "sections": [
       {
         "id": "history",
-        "title": "Historical Background",
-        "content": "Valley of the Mills Park was created in the 1950s and represents one of the most important tourist and recreational attractions in Chișinău. Its name comes from the windmills that existed in this area in the last century. Over time, the park has undergone several renovations, becoming a modern relaxation space."
+        "title": "History & Significance of Valley of the Mills Park",
+        "content": "Valley of the Mills Park was created in the 1950s and represents one of the most important tourist and recreational attractions in Chișinău. Its name comes from the windmills that existed in this area in the last century. Over time, the park has undergone several renovations, becoming a modern relaxation space and a symbol of the green identity of the Moldovan capital."
       },
       {
         "id": "layout",
-        "title": "Geography & Layout",
-        "content": "The park is organized around a scenic lake, which is the central point of attraction. The shady alleys and green spaces offer multiple opportunities for walking and relaxation. In the center stands an emblematic monument, which often hosts cultural and artistic events."
+        "title": "Location & How to Visit Mills' Valley Park in Chișinău",
+        "content": "The park is organized around a scenic lake, which is the central point of attraction. The shady alleys and green spaces offer multiple opportunities for walking and relaxation. In the center stands an emblematic monument, which often hosts cultural and artistic events. Access is easy from multiple points in the city, both on foot and by public transport."
       },
       {
         "id": "culture",
-        "title": "Cultural Significance",
-        "content": "As the 'green lung' of Chișinău, the park is not only a place for relaxation but also a hub for public events. During summer, open-air concerts, festivals, and other cultural activities are often organized here, being a favorite meeting place for city residents."
+        "title": "Landmarks & Attractions Around Mills' Valley Park",
+        "content": "As the 'green lung' of Chișinău, the park is not only a place for relaxation but also a hub for public events. During summer, open-air concerts, festivals, and other cultural activities are often organized here, being a favorite meeting place for city residents. Nearby you will find Ștefan cel Mare Central Park, the Chișinău Botanical Garden, and numerous historic buildings in the city center."
       },
       {
         "id": "biodiversity",
@@ -70,13 +72,13 @@
     "officialName": "Official Name",
     "officialNameValue": "Valley of the Mills Park (Parcul „Valea Morilor”)",
     "type": "Attraction Type",
-    "typeValue": "Park",
+    "typeValue": "Public Park",
     "country": "Country",
     "countryValue": "Moldova",
-    "city": "City",
-    "cityValue": "Chișinău",
+    "city": "City / Municipality",
+    "cityValue": "Chișinău / Chișinău Municipality",
     "googleRating": "Google Rating",
-    "googleRatingValue": "4.8 (16,276)",
+    "googleRatingValue": "4.8 (16,601)",
     "address": "Address",
     "addressValue": "Strada Grigore Alexandrescu, Chișinău, Moldova",
     "plusCode": "Plus Code",
@@ -91,7 +93,7 @@
     "bestTimeSummer": "Summer: Sunny days, great for picnics and outdoor activities",
     "bestTimeAutumn": "Autumn: Beautiful foliage and pleasant atmosphere",
     "bestTimeWinter": "Winter: Quiet atmosphere and winter landscapes",
-    "tip": "Opening hours may vary due to seasons and special events. Please check the official website for the latest updates."
+    "tip": "Opening hours may vary due to seasons and special events. Please check the official tourism portal for the latest updates."
   },
   "tickets": {
     "title": "Admission Information",
@@ -184,7 +186,7 @@
   },
   "gallery": {
     "title": "Photo Gallery",
-    "subtitle": "Scenic Views of Valley of the Mills Park",
+    "subtitle": "Scenic Views of Valley of the Mills Park (Chișinău, Moldova)",
     "captions": [
       "Lake view",
       "Scenic lake",
@@ -253,9 +255,27 @@
     ]
   },
   "mapSection": {
-    "title": "Map Location",
+    "title": "Map Location · Mills' Valley Park, Chișinău",
     "subtitle": "Strada Grigore Alexandrescu, Chișinău, Moldova",
     "openMaps": "View on Google Maps"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "subtitle": "Answers to the most common questions about Valley of the Mills Park",
+    "items": [
+      {
+        "q": "Where is Valley of the Mills Park located?",
+        "a": "Valley of the Mills Park (Parcul „Valea Morilor”) is located in Chișinău, Chișinău Municipality, Moldova, at Strada Grigore Alexandrescu."
+      },
+      {
+        "q": "Is Mills' Valley Park free to visit?",
+        "a": "Yes, Valley of the Mills Park is a public space and is free to visit year-round."
+      },
+      {
+        "q": "What are the main attractions near Valley of the Mills Park?",
+        "a": "When visiting Valley of the Mills Park, visitors can easily explore surrounding landmarks including Ștefan cel Mare Central Park and Chișinău Botanical Garden."
+      }
+    ]
   },
   "footer": {
     "rights": "© 2026 Valley of the Mills Park Independent Tourism Research Association · All Rights Reserved.",
@@ -263,15 +283,16 @@
     "terms": "Terms of Service",
     "cookies": "Cookie Settings",
     "parkName": "Valley of the Mills Park",
-    "parkSubtitle": "Park · Chișinău",
+    "parkSubtitle": "Public Park · Chișinău · Moldova",
     "officialResourcesTitle": "Related Resources & Information",
     "officialLinks": {
-      "mc": "Moldova Culture",
-      "turism": "Moldova Tourism",
-      "airm": "Monuments Inspection",
+      "mc": "Moldova Government - Culture",
+      "turism": "Moldova Official Tourism Portal",
+      "airm": "Monuments Inspection & Restoration Agency",
       "chisinau": "Chișinău City Hall",
       "proiecte": "Chișinău Projects & Tourism"
     },
+    "officialTourismLinkText": "For official updates and regional tourism information, visit the Moldova / Chișinău Official Tourism Portal.",
     "disclaimer": "This website is an independent third-party travel information project. We are not affiliated with the local government or any other official institutions."
   },
   "privacy": {

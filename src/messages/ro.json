@@ -1,7 +1,7 @@
 {
   "meta": {
-    "title": "Parcul „Valea Morilor”",
-    "description": "Ghid complet pentru Parcul „Valea Morilor” din Chișinău. Aflați despre acest loc scenic, locația sa, informații de vizitare și sfaturi de călătorie."
+    "title": "Parcul „Valea Morilor” (Chișinău) - Ghid de vizitare și Locație",
+    "description": "Descoperiți Parcul „Valea Morilor”, atracția emblematică din Chișinău, Republica Moldova. Consultați harta locației, programul, obiective din jur precum Parcul Ștefan cel Mare și Grădina Botanică, precum și sfaturi de călătorie."
   },
   "header": {
     "home": "Acasă",
@@ -11,30 +11,33 @@
     "backToHome": "Înapoi la Acasă"
   },
   "hero": {
-    "title": "Parcul „Valea Morilor”",
-    "subtitle": "Parc · Chișinău",
+    "title": "Parcul „Valea Morilor” (Chișinău)",
+    "subtitle": "Parc · Municipiul Chișinău · Republica Moldova",
     "rating": "4.8",
-    "reviewCount": "16,276 recenzii",
-    "type": "Parc",
-    "openMaps": "Vezi pe Google Maps"
+    "reviewCount": "16.601 recenzii",
+    "type": "Parc public",
+    "openMaps": "Vezi pe Google Maps",
+    "mapsLink": "https://maps.app.goo.gl/nLipr7g9VhagY7TQA"
   },
   "intro": {
-    "title": "Descoperă Parcul „Valea Morilor”",
-    "description": "Parcul „Valea Morilor” este unul dintre cele mai frumoase și mai vizitate parcuri din Chișinău, situat pe malul râului Bâc. Parcu oferă o ambianță liniștită și pitorească, fiind locul ideal pentru plimbări, relaxare și activități în aer liber. Cu lacul său scenic, aleile umbroase și spațiile verzi extinse, este o destinație favorită atât pentru localnici, cât și pentru turiști.",
+    "title": "Despre Parcul „Valea Morilor”",
+    "breadcrumbs": "Parcul „Valea Morilor” › Chișinău › Municipiul Chișinău › Republica Moldova",
+    "description": "Bine ați venit la <strong>Parcul „Valea Morilor”</strong>, recunoscut pe scară largă ca centrul emblematic al <strong>Valei Morilor</strong>. Situat în inima orașului <strong>Chișinău</strong>, în <strong>Municipiul Chișinău</strong>, <strong>Republica Moldova</strong>, această destinație reprezintă un nod principal pentru turiștii care vizitează regiunea. Parcul „Valea Morilor” (Valley of the Mills Park) este unul dintre cele mai frumoase și mai vizitate parcuri din Chișinău, situat pe malul râului Bâc. Oferă o ambianță liniștită și pitorească, fiind locul ideal pentru plimbări, relaxare și activități în aer liber. Cu lacul său scenic, aleile umbroase și spațiile verzi extinse, este o destinație favorită atât pentru localnici, cât și pentru turiști.",
+    "nearbyCluster": "La vizitarea <strong>Parculului „Valea Morilor”</strong>, vizitatorii pot explora cu ușurință obiective istorice și puncte de interes din jur, inclusiv <strong>Parcul „Ștefan cel Mare și Sfânt”</strong> și <strong>Grădina Botanică din Chișinău</strong>.",
     "visitGuide": {
       "title": "Sfaturi de vizitare",
       "items": [
-        "Parcu este accesibil tot timpul anului și intrarea este gratuită.",
+        "Parcul este accesibil tot timpul anului și intrarea este gratuită.",
         "Loc excelent pentru un picnic sau o plimbare relaxantă pe aleile umbroase.",
         "Oferă vederi excelente asupra lacului și a monumentului din centru."
       ]
     },
     "alsoKnownAs": {
-      "title": "Momentelumnte cheie",
+      "title": "Repere cheie",
       "items": [
         "Lacul „Valea Morilor”",
         "Monumentul din centru",
-        "Aleile pitoresti",
+        "Aleile pitorești",
         "Spațiile verzi"
       ]
     }
@@ -44,42 +47,42 @@
     "sections": [
       {
         "id": "history",
-        "title": "Context istoric",
-        "content": "Parcul „Valea Morilor” a fost creat în anii 1950 și reprezintă unul dintre cele mai importante obiective turistice și de agrement din Chișinău. Numele său provine de la morile de vânt care existau în această zonă în secolul trecut. De-a lungul timpului, parcul a suferit mai multe renovări, devenind un spațiu modern de relaxare."
+        "title": "Istorie și semnificație a Parculului „Valea Morilor”",
+        "content": "Parcul „Valea Morilor” a fost creat în anii 1950 și reprezintă unul dintre cele mai importante obiective turistice și de agrement din Chișinău. Numele său provine de la morile de vânt care existau în această zonă în secolul trecut. De-a lungul timpului, parcul a suferit mai multe renovări, devenind un spațiu modern de relaxare și un simbol al identității verzi a capitalei Moldovei."
       },
       {
         "id": "layout",
-        "title": "Geografie și amenajare",
-        "content": "Parcu este organizat în jurul unui lac scenic, care este punctul central de atracție. Aleile umbroase și spațiile verzi oferă multiple oportunități de plimbare și relaxare. În centru se află un monument emblematic, care adesea gazduiește evenimente culturale și artistice."
+        "title": "Locație și modul de vizitare a Valei Morilor din Chișinău",
+        "content": "Parcul este organizat în jurul unui lac scenic, care este punctul central de atracție. Aleile umbroase și spațiile verzi oferă multiple oportunități de plimbare și relaxare. În centru se află un monument emblematic, care adesea gazduiește evenimente culturale și artistice. Accesul se face ușor din mai multe puncte ale orașului, atât pe jos, cât și cu transportul public."
       },
       {
         "id": "culture",
-        "title": "Semnificație culturală",
-        "content": "Ca „plămânul verde” al Chișinăului, parcul nu este doar un loc de relaxare, ci și un hub pentru evenimente publice. În timpul verii, aici se organizează adesea concerte în aer liber, festivaluri și alte activități culturale, fiind un loc de întâlnire preferat de locuitorii orașului."
+        "title": "Repere și atracții din jurul Valei Morilor",
+        "content": "În calitate de „plămânul verde” al Chișinăului, parcul nu este doar un loc de relaxare, ci și un hub pentru evenimente publice. În timpul verii, aici se organizează adesea concerte în aer liber, festivaluri și alte activități culturale, fiind un loc de întâlnire preferat de locuitorii orașului. În apropiere se găsesc Parcul „Ștefan cel Mare și Sfânt”, Grădina Botanică și numeroase clădiri istorice din centrul Chișinăului."
       },
       {
         "id": "biodiversity",
         "title": "Ecologie și floră",
-        "content": "Parcu găzduiește o varietate bogată de specii de plante, oferind peisaje distincte în toate anotimpurile. De la înflorirea cireșilor în primăvară până la foliage vibrante în toamnă, este un refugiu pentru iubitorii de natură și o habitat important pentru păsările urbane și fauna mică."
+        "content": "Parcul găzduiește o varietate bogată de specii de plante, oferind peisaje distincte în toate anotimpurile. De la înflorirea cireșilor în primăvară până la foliage vibrante în toamnă, este un refugiu pentru iubitorii de natură și un habitat important pentru păsările urbane și fauna mică."
       }
     ]
   },
   "basicInfo": {
     "title": "Informații de bază",
     "officialName": "Denumire oficială",
-    "officialNameValue": "Parcul „Valea Morilor”",
+    "officialNameValue": "Parcul „Valea Morilor” (Valley of the Mills Park)",
     "type": "Tip atracție",
-    "typeValue": "Parc",
+    "typeValue": "Parc public",
     "country": "Țară",
     "countryValue": "Republica Moldova",
-    "city": "Oraș",
-    "cityValue": "Chișinău",
+    "city": "Oraș / Municipalitate",
+    "cityValue": "Chișinău / Municipiul Chișinău",
     "googleRating": "Evaluare Google",
-    "googleRatingValue": "4.8 (16,276)",
+    "googleRatingValue": "4.8 (16.601)",
     "address": "Adresă",
-    "addressValue": "Strada Grigore Alexandrescu, Chișinău, Moldova",
+    "addressValue": "Strada Grigore Alexandrescu, Chișinău, Republica Moldova",
     "plusCode": "Cod Plus",
-    "plusCodeValue": "2R99+CP Chișinău, Moldova"
+    "plusCodeValue": "2R99+CP Chișinău, Republica Moldova"
   },
   "hours": {
     "title": "Program de vizitare",
@@ -90,7 +93,7 @@
     "bestTimeSummer": "Vara: Zile însorite, excelente pentru picnic și activități în aer liber",
     "bestTimeAutumn": "Toamna: Frunziș colorat și atmosferă plăcută",
     "bestTimeWinter": "Iarna: Atmosferă liniștită și peisaje de iarnă",
-    "tip": "Programul de vizitare poate varia în funcție de anotimp și evenimente speciale. Vă rugăm să verificați site-ul oficial pentru cele mai recente actualizări."
+    "tip": "Programul de vizitare poate varia în funcție de anotimp și evenimente speciale. Vă rugăm să verificați portalul oficial de turism pentru cele mai recente actualizări."
   },
   "tickets": {
     "title": "Informații despre bilete",
@@ -104,7 +107,7 @@
   "transport": {
     "title": "Cum să ajungeți",
     "fromCenter": "Din centru Chișinău",
-    "fromCenterDesc": "Parcu este situat la o distanță accesibilă de mers pe jos sau cu transportul public din centru.",
+    "fromCenterDesc": "Parcul este situat la o distanță accesibilă de mers pe jos sau cu transportul public din centru.",
     "fromStation": "Din stația de autobuz",
     "fromStationDesc": "Accesibil cu mai multe linii de autobuz și troleibuz.",
     "fromAirport": "De la aeroport",
@@ -132,7 +135,7 @@
     "spots": [
       {
         "title": "Lacul scenic",
-        "description": "Lacul din centru parcului oferă oportunități excelente pentru fotografii de peisaj, mai ales în timpul răsăritului și apusului.",
+        "description": "Lacul din centrul parcului oferă oportunități excelente pentru fotografii de peisaj, mai ales în timpul răsăritului și apusului.",
         "location": "Centrul parcului",
         "image": "/gallery/valley-of-the-mills-park-2.jpg"
       },
@@ -144,7 +147,7 @@
       },
       {
         "title": "Aleile umbroase",
-        "description": "Aleile linistite și umbroase oferă un cadru perfect pentru fotografii de natură și portrete.",
+        "description": "Aleile liniștite și umbroase oferă un cadru perfect pentru fotografii de natură și portrete.",
         "location": "În tot parcul",
         "image": "/gallery/valley-of-the-mills-park-5.jpg"
       },
@@ -183,7 +186,7 @@
   },
   "gallery": {
     "title": "Galerie foto",
-    "subtitle": "Peesaje din Parcul „Valea Morilor”",
+    "subtitle": "Peisaje din Parcul „Valea Morilor” (Chișinău, Republica Moldova)",
     "captions": [
       "Vedere spre lac",
       "Lacul scenic",
@@ -252,9 +255,27 @@
     ]
   },
   "mapSection": {
-    "title": "Locația pe hartă",
-    "subtitle": "Strada Grigore Alexandrescu, Chișinău, Moldova",
+    "title": "Locația pe hartă · Valea Morilor, Chișinău",
+    "subtitle": "Strada Grigore Alexandrescu, Chișinău, Republica Moldova",
     "openMaps": "Vezi pe Google Maps"
+  },
+  "faq": {
+    "title": "Întrebări frecvente",
+    "subtitle": "Răspunsuri la cele mai comune întrebări despre Parcul „Valea Morilor”",
+    "items": [
+      {
+        "q": "Unde se află Parcul „Valea Morilor”?",
+        "a": "Parcul „Valea Morilor” se află în Chișinău, Municipiul Chișinău, Republica Moldova, la adresa Strada Grigore Alexandrescu."
+      },
+      {
+        "q": "Vizitarea Parculului „Valea Morilor” este gratuită?",
+        "a": "Da, Parcul „Valea Morilor” este un spațiu public și poate fi vizitat gratuit pe tot parcursul anului."
+      },
+      {
+        "q": "Ce atracții se află în apropierea Parculului „Valea Morilor”?",
+        "a": "În apropierea Parculului „Valea Morilor” se pot explora cu ușurință Parcul „Ștefan cel Mare și Sfânt” și Grădina Botanică din Chișinău, printre alte obiective emblematice."
+      }
+    ]
   },
   "footer": {
     "rights": "© 2026 Asociația Independentă de Cercetare Turistică Parcul „Valea Morilor” · Toate drepturile rezervate.",
@@ -262,15 +283,16 @@
     "terms": "Termeni și condiții",
     "cookies": "Setări Cookie",
     "parkName": "Parcul „Valea Morilor”",
-    "parkSubtitle": "Parc · Chișinău",
+    "parkSubtitle": "Parc public · Chișinău · Republica Moldova",
     "officialResourcesTitle": "Resurse și informații conexe",
     "officialLinks": {
       "mc": "Guvernul Republicii Moldova - Cultură",
-      "turism": "Turismul în Moldova",
+      "turism": "Portalul Oficial de Turism al Republicii Moldova",
       "airm": "Agenția de Inspectare și Restaurare a Monumentelor",
       "chisinau": "Primăria municipiului Chișinău",
       "proiecte": "Proiecte Chișinău - Turism"
     },
+    "officialTourismLinkText": "Pentru actualizări oficiale și informații regionale de turism, vizitați Portalul Oficial de Turism al Republicii Moldova.",
     "disclaimer": "Acest site este un proiect independent de informații turistice. Nu suntem afiliați cu administrația locală sau alte instituții oficiale."
   },
   "privacy": {
@@ -330,6 +352,6 @@
   },
   "officialManagement": {
     "title": "Despre Parcul „Valea Morilor”",
-    "text": "Parcul „Valea Morilor” este situat în inima orașului Chișinău, Moldova, fiind unul dintre cele mai reprezentative spații verzi ale capitalei. Combină perfect peisajele naturale cu zonele de agrement, oferind o oază de liniște pentru locuitori și turiști deopotrivă. Protecția ecologică și managementul turistic al acestei zone sunt coordonate în comun de Primăria municipiului Chișinău și autoritățile naționale de turism ale Republicii Moldova."
+    "text": "Parcul „Valea Morilor” este situat în inima orașului Chișinău, Republica Moldova, fiind unul dintre cele mai reprezentative spații verzi ale capitalei. Combină perfect peisajele naturale cu zonele de agrement, oferind o oază de liniște pentru locuitori și turiști deopotrivă. Protecția ecologică și managementul turistic al acestei zone sunt coordonate în comun de Primăria municipiului Chișinău și autoritățile naționale de turism ale Republicii Moldova."
   }
 }

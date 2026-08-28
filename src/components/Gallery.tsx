@@ -1,42 +1,43 @@
 'use client';
 
-import { useTranslations, useMessages } from 'next-intl';
+import { useTranslations, useMessages, useLocale } from 'next-intl';
 import { useState, useCallback } from 'react';
 
-const photos = [
-  { src: '/gallery/valley-of-the-mills-park-1.jpg', alt: 'Valley of the Mills Park Photo 1' },
-  { src: '/gallery/valley-of-the-mills-park-2.jpg', alt: 'Valley of the Mills Park Photo 2' },
-  { src: '/gallery/valley-of-the-mills-park-3.jpg', alt: 'Valley of the Mills Park Photo 3' },
-  { src: '/gallery/valley-of-the-mills-park-4.jpg', alt: 'Valley of the Mills Park Photo 4' },
-  { src: '/gallery/valley-of-the-mills-park-5.jpg', alt: 'Valley of the Mills Park Photo 5' },
-  { src: '/gallery/valley-of-the-mills-park-6.jpg', alt: 'Valley of the Mills Park Photo 6' },
-  { src: '/gallery/valley-of-the-mills-park-7.jpg', alt: 'Valley of the Mills Park Photo 7' },
-  { src: '/gallery/valley-of-the-mills-park-8.jpg', alt: 'Valley of the Mills Park Photo 8' },
-  { src: '/gallery/valley-of-the-mills-park-9.jpg', alt: 'Valley of the Mills Park Photo 9' },
-  { src: '/gallery/valley-of-the-mills-park-10.jpg', alt: 'Valley of the Mills Park Photo 10' },
-  { src: '/gallery/valley-of-the-mills-park-11.jpg', alt: 'Valley of the Mills Park Photo 11' },
-  { src: '/gallery/valley-of-the-mills-park-12.jpg', alt: 'Valley of the Mills Park Photo 12' },
-  { src: '/gallery/valley-of-the-mills-park-13.jpg', alt: 'Valley of the Mills Park Photo 13' },
-  { src: '/gallery/valley-of-the-mills-park-14.jpg', alt: 'Valley of the Mills Park Photo 14' },
-  { src: '/gallery/valley-of-the-mills-park-15.jpg', alt: 'Valley of the Mills Park Photo 15' },
-  { src: '/gallery/valley-of-the-mills-park-16.jpg', alt: 'Valley of the Mills Park Photo 16' },
-  { src: '/gallery/valley-of-the-mills-park-17.jpg', alt: 'Valley of the Mills Park Photo 17' },
-  { src: '/gallery/valley-of-the-mills-park-18.jpg', alt: 'Valley of the Mills Park Photo 18' },
-  { src: '/gallery/valley-of-the-mills-park-19.jpg', alt: 'Valley of the Mills Park Photo 19' },
-];
+const HERO_ALT: Record<string, string> = {
+  ro: 'Parcul „Valea Morilor” - Vedere principală în Chișinău, Republica Moldova',
+  en: 'Valley of the Mills Park - Main view in Chișinău, Moldova',
+  zh: '风车谷公园 - 摩尔多瓦共和国基希讷乌主图',
+};
+
+const GALLERY_ALT: Record<string, (caption: string) => string> = {
+  ro: (c) => `${c} - Peisaj din Parcul „Valea Morilor”, Chișinău`,
+  en: (c) => `${c} - Scenic view of Valley of the Mills Park, Chișinău, Moldova`,
+  zh: (c) => `${c} - 摩尔多瓦基希讷乌风车谷公园景观`,
+};
+
+const photoSources: string[] = Array.from({ length: 19 }, (_, i) => `/gallery/valley-of-the-mills-park-${i + 1}.jpg`);
 
 export default function Gallery() {
   const t = useTranslations('gallery');
+  const locale = useLocale();
   const messages = useMessages() as any;
   const [currentIndex, setCurrentIndex] = useState(0);
   const [isLightboxOpen, setIsLightboxOpen] = useState(false);
   const [showAll, setShowAll] = useState(false);
   const captions = (messages?.gallery?.captions || []) as string[];
 
-  const galleryPhotos = photos.map((photo, i) => ({
-    ...photo,
-    alt: captions[i] || photo.alt,
-  }));
+  const heroAlt = HERO_ALT[locale] || HERO_ALT.en;
+  const altTemplate = GALLERY_ALT[locale] || GALLERY_ALT.en;
+
+  const galleryPhotos = photoSources.map((src, i) => {
+    const caption = captions[i];
+    const alt = i === 0
+      ? heroAlt
+      : caption
+        ? altTemplate(caption)
+        : `Valley of the Mills Park photo ${i + 1}`;
+    return { src, caption: caption || '', alt };
+  });
 
   const goToPrevious = useCallback(() => {
     setCurrentIndex((prev) => (prev === 0 ? galleryPhotos.length - 1 : prev - 1));
@@ -78,11 +79,12 @@ export default function Gallery() {
                     alt={photo.alt}
                     className="w-full h-full object-cover rounded-lg"
                     style={{ minHeight: i === 0 ? '400px' : '180px' }}
-                    loading="lazy"
+                    loading={i === 0 ? 'eager' : 'lazy'}
+                    fetchPriority={i === 0 ? 'high' : 'auto'}
                   />
                   <div className="absolute inset-0 bg-black/0 group-hover:bg-black/30 transition-colors rounded-lg flex items-end">
                     <p className="text-white text-sm p-3 opacity-0 group-hover:opacity-100 transition-opacity">
-                      {photo.alt}
+                      {photo.caption || photo.alt}
                     </p>
                   </div>
                 </div>
@@ -190,6 +192,11 @@ export default function Gallery() {
 
           <div className="absolute bottom-4 left-1/2 -translate-x-1/2 text-white text-sm">
             {currentIndex + 1} / {galleryPhotos.length}
+            {galleryPhotos[currentIndex].caption && (
+              <span className="block text-xs opacity-70 mt-1">
+                {galleryPhotos[currentIndex].caption}
+              </span>
+            )}
           </div>
         </div>
       )}
